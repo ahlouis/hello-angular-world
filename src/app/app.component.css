@@ -1,0 +1,11 @@
+h1 {
+	text-align: center;
+	color: fuschia;
+    outline: 5px dotted green;
+
+}
+body {background-color: coral;}
+button { color: green}
+table {
+    border: 4px dotted blue;
+  }
